@@ -1,5 +1,4 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -8,22 +7,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
     permissions:
       contents: write
-
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3
         with:
           github_user_name: GeovaniMtz
-          svg_out_path: |
+          outputs: |
             github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            github-contribution-grid-snake-dark.svg
 
       - name: Commit and push snake SVG
         run: |
