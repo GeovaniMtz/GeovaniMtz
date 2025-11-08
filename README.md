@@ -71,7 +71,7 @@ Siempre estoy buscando mejorar mis habilidades. Ahora mismo, estoy profundizando
 
 ## ⚡ Mi Actividad Reciente
 
-![Snake animation](https://github.com/GeovaniMtz/GeovaniMtz/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/GeovaniMtz/GeovaniMtz/main/github-contribution-grid-snake.svg)
 
 ---
 
