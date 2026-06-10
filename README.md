@@ -85,3 +85,4 @@ Siempre estoy buscando mejorar mis habilidades. Ahora mismo, estoy profundizando
 Puedes encontrarme en:
 
 * **Email:** geovanimartinez14@ciencias.unam.mx
+*  **Linkedin:** https://www.linkedin.com/in/geovani-martinez-martinez/
