@@ -5,8 +5,8 @@
 ### Backend Developer · Ingeniero en Ciencias de la Computación, UNAM
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Java+%2F+Spring+Boot+%2F+Spring+Cloud;Python+%2F+Django;Backend+en+Genomic+Data+Hub+%40+ICAT%2C+UNAM;Abierto+a+oportunidades+en+CDMX">
-  <img alt="typing banner" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=640&lines=Java+%2F+Spring+Boot+%2F+Spring+Cloud;Python+%2F+Django;Backend+en+Genomic+Data+Hub+%40+ICAT%2C+UNAM;Abierto+a+oportunidades+en+CDMX">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Java+%2F+Spring+Boot+%2F+Spring+Cloud;Python+%2F+Django;Backend+en+Genomic+Data+Hub+%40+ICAT%2C+UNAM">
+  <img alt="typing banner" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=640&lines=Java+%2F+Spring+Boot+%2F+Spring+Cloud;Python+%2F+Django;Backend+en+Genomic+Data+Hub+%40+ICAT%2C+UNAM">
 </picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovani-martinez-martinez/)
